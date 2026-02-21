@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ayush Koge 👋  
 
-<!--
-**Ayush-1916/Ayush-1916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | AI/ML Engineer | Computer Vision Enthusiast  
 
-Here are some ideas to get you started:
+I build practical AI systems using Python, Machine Learning, and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- BTech in Information Technology  
+- 8+ months of experience as an AI/ML Engineer
+- Strong foundation in Python, Machine Learning, SQL, Generative AI, LLMs and AI Automation Systems  
+- Built and deployed real-world AI systems  
+- Interested in Machine Learning, Computer Vision and Applied AI
+
+## Featured Projects
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-1916&show_icons=true)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-1916&layout=compact)
