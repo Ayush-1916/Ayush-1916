@@ -44,7 +44,7 @@ Currently Exploring opportunities in GenAI and Machine Learning.
 
 Tech: Python, NLP, FastAPI, Deployment
 
-### 1. Dwell Time Monitoring System
+### 2. Dwell Time Monitoring System
 
  •	Real-time person tracking using object detection
 
