@@ -32,6 +32,18 @@ Currently Exploring opportunities in GenAI and Machine Learning.
 
 ## Featured Projects
 
+### 1. AI Resume Screening System
+
+ •	Resume-to-Job Description matching
+ 
+ •	Similarity scoring
+ 
+ •	Built with FastAPI backend
+ 
+ •	Deployed full-stack project
+
+Tech: Python, NLP, FastAPI, Deployment
+
 ### 1. Dwell Time Monitoring System
 
  •	Real-time person tracking using object detection
@@ -45,7 +57,7 @@ Currently Exploring opportunities in GenAI and Machine Learning.
 Tech: Python, OpenCV, Deep Learning, Object Tracking
 
 
-### 2. Gender Detection System
+### 3. Gender Detection System
 
  •	Face detection + gender classification
 
@@ -55,17 +67,6 @@ Tech: Python, OpenCV, Deep Learning, Object Tracking
 
 Tech: Python, CNN, OpenCV
 
-### 3. AI Resume Screening System
-
- •	Resume-to-Job Description matching
- 
- •	Similarity scoring
- 
- •	Built with FastAPI backend
- 
- •	Deployed full-stack project
-
-Tech: Python, NLP, FastAPI, Deployment
 
 ### 4. Predictive Maintainance System
 
