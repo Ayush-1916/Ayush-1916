@@ -13,7 +13,7 @@
 </p>
 
 
-# Hi, I'm Ayush Koge 👋  
+# Hi, I'm Ayush 👋  
 
  AI/ML Engineer | Python Developer | Computer Vision Enthusiast  
 
